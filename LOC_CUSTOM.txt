@@ -1,4 +1,4 @@
-﻿// You can add your own localization in this file. Because external language support is currently under development, not all characters may display properly yet. Remember to keep a copy of this file outside of the game directory as it may be overwritten by updates.
+﻿// Puedes agregar tu propia traducción en este archivo. Debido a que el soporte de lenguajes externo del juego aún está desarrollándose, no todos los caracteres se mostrarán correctamente. Recuerda guardar una copia de este archivo, ya que puede ser sobreescrito en futuras actualizaciones.
 
 //---- Nombre del idioma
 0 = "ESPAÑOL (WIP)"
@@ -10,7 +10,7 @@
 4 = "NO"
 5 = "BAJO"
 6 = "EQUIPOS"
-7 = "ESCENARIOS [RB)"
+7 = "ESCENARIOS"
 8 = "MÚSICA"
 9 = "DAÑO" // team attack btn (1)
 10 = "ALIADO" // team attack btn (2)
@@ -18,10 +18,10 @@
 12 = "NINGUNO" // No Profile (main menu)
 13 = "INVITADO" // Guest (css menu)
 14 = "RUNAS" // css abyss runes
-15 = "Abrir la Prueba de Audio" // css music note button
+15 = "Abrir Prueba de Audio" // css music note button
 16 = "Stick de control" // term for Analog Stick on PC & Nintendo Switch
 17 = "thumbstick" // term for Analog Stick on Xbox
-18 = "analog stick" // term for Analog Stick on other platforms
+18 = "Stick análogo" // term for Analog Stick on other platforms
 19 = "PÁG."
 20 = "NICKNAME" // generic / nintendo switch
 21 = "NOMBRE" // steam only
@@ -44,7 +44,7 @@
 38 = "PUNTAJE" // score - for abyss leaderboard/etc
 39 = "RÉCORD" // quickest time story mode was cleared
 40 = "PERSONAJE"
-41 = "VAMOS" // on-screen button to begin a story mode chapter
+41 = "¡VAMOS!" // on-screen button to begin a story mode chapter
 42 = "TIEMPO" // shortened version of "BEST TIME" to fit UI
 43 = "VER CLASIFICACIÓN" // shortened version of "VIEW FRIENDS LEADERBOARD" to fit UI
 44 = " MAYOR OLEADA" // Furthest wave you've reached in abyss before dying.
