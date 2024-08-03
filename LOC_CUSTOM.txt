@@ -761,7 +761,7 @@
 681 = "En línea clasificatoria"
 682 = "(sin descripción)"
 683 = "" // x/128 Replays
-684 = "Las repeticiones sin estrellas serán boradas" // (1/2)
+684 = "Las repeticiones sin estrellas serán borradas" // (1/2)
 685 = "cuando no haya más espacios." // (2/2)
 686 = "MIRAR"
 687 = "RENOMBRAR"
@@ -3974,21 +3974,20 @@
 // Replay Mode Options
 4540 = "Pantalla verde"
 4541 = "Rebobinar 1 seg."
-
 // Advanced Training Options
-4550 = "Advanced Options" // header text
-4551 = "Save State"
-4552 = "Load State"
-4553 = "Stop Recording"
-4554 = "Start Recording"
-4555 = "Stop Playback"
-4556 = "Start Playback"
-4557 = "Loop: " // (eg. Loop: ON/OFF/SHUFFLE)
-4558 = "Stop Control"
-4559 = "Start Control"
-4560 = "Change File"
-4561 = "NO FILES FOUND"
-4562 = "Regular Options"
-4563 = "Advanced Options"
-4564 = "(Use Player Slot `1)"
-4539 = "En la selección de escenarios, presiona rápidamente la\napariencia de Torre del Cielo o de Abismo Infinito para\napariencias especiales del otro."
+4550 = "Opciones avanzadas" // header text
+4551 = "Guardar estado"
+4552 = "Cargar estado"
+4553 = "Detener"
+4554 = "Grabar"
+4555 = "Parar"
+4556 = "Repetir"
+4557 = "Bucle: " // (eg. Loop: ON/OFF/SHUFFLE)
+4558 = "Dejar"
+4559 = "Controlar"
+4560 = "Cambiar archivo"
+4561 = "NO HAY ARCHIVOS"
+4562 = "Opciones"
+4563 = "Avanzadas"
+4564 = "(Usar ranura `1)"
+4539 = "En la selección de escenarios, presiona rápidamente la\napariencia de Torre del Cielo o de Abismo Infinito para\nuna apariencia especial del otro."
