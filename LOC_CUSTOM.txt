@@ -3,14 +3,14 @@
 //---- Nombre del idioma
 0 = "ESPAÑOL (WIP)"
 
-//---- Varois textos en el menú
-1 = "ATRÁS"
+//---- Varios textos en el menú
+1 = "ATRÁS"
 2 = "RETIRARSE" // button to forfeit the current match (online)
 3 = "SI"
 4 = "NO"
 5 = "BAJO"
 6 = "EQUIPOS"
-7 = "ESCENARIOS"
+7 = "ESCENARIOS [RB)"
 8 = "MÚSICA"
 9 = "DAÑO" // team attack btn (1)
 10 = "ALIADO" // team attack btn (2)
@@ -18,10 +18,10 @@
 12 = "NINGUNO" // No Profile (main menu)
 13 = "INVITADO" // Guest (css menu)
 14 = "RUNAS" // css abyss runes
-15 = "Abrir Prueba de Audio" // css music note button
+15 = "Abrir la Galería de música" // css music note button
 16 = "Stick de control" // term for Analog Stick on PC & Nintendo Switch
 17 = "thumbstick" // term for Analog Stick on Xbox
-18 = "Stick análogo" // term for Analog Stick on other platforms
+18 = "analog stick" // term for Analog Stick on other platforms
 19 = "PÁG."
 20 = "NICKNAME" // generic / nintendo switch
 21 = "NOMBRE" // steam only
@@ -44,7 +44,7 @@
 38 = "PUNTAJE" // score - for abyss leaderboard/etc
 39 = "RÉCORD" // quickest time story mode was cleared
 40 = "PERSONAJE"
-41 = "¡VAMOS!" // on-screen button to begin a story mode chapter
+41 = "VAMOS" // on-screen button to begin a story mode chapter
 42 = "TIEMPO" // shortened version of "BEST TIME" to fit UI
 43 = "VER CLASIFICACIÓN" // shortened version of "VIEW FRIENDS LEADERBOARD" to fit UI
 44 = " MAYOR OLEADA" // Furthest wave you've reached in abyss before dying.
@@ -60,17 +60,17 @@
 52 = "Reproducir"
 53 = "Parar"
 54 = "Repetir"
-55 = "Repr. aleatoria"
+55 = "Mezclar"
 
 //---- Online lobby
 56 = "ACEPTAR"
 57 = "RECHAZAR"
-58 = "REBANCHA"
+58 = "REVANCHA"
 59 = "OTRO OPONENTE"
 60 = "Buscando..."
 61 = "Invitando..."
-62 = "OPPONENTE HALLADO!"
-63 = "CARGANDO INFO."
+62 = "¡OPPONENTE HALLADO!"
+63 = "CARGANDO DATOS"
 64 = "DECIDIENDO..."
 65 = "CONCIDERANDO..."
 75 = "CANCELAR BÚSQUEDA"
@@ -84,7 +84,7 @@
 86 = "IRSE"
 87 = "CREAR SALA"
 88 = "Sala ocupada.\nEsperando a unirse..."
-89 = "UNIR SALAS..."
+89 = "UNIENDO SALAS..."
 
 //---- Casual Match Types
 77 = "1c1"
@@ -166,7 +166,7 @@
 153 = "La Furia del Viento"
 154 = "El Bastión de Tierra"
 155 = "La Llama Exiliada"
-156 = "La Vigía Silvana"
+156 = "La Vigilante Silvana"
 157 = "La Arquitecta de Tormentas"
 158 = "La Furia del Glaciar"
 159 = "De Ori & the Blind Forest"
@@ -202,7 +202,7 @@
 189 = "SK" // shortest form
 190 = "Ragnir"
 191 = "Extra"
-192 = "Zett."
+192 = "@188"
 193 = "Mollo"
 194 = "Hodan"
 195 = "Pomme"
@@ -257,7 +257,7 @@
 244 = "Alcanza el nivel \nde personaje `1 para desbloquearlo."
 245 = "¡Felicidades! \nDesbloqueaste los \ncolores de Clasificatoria!"
 246 = "`1 desactivó el Modo Turbo."
-247 = "Completa todos los \tutoriales para \ndesbloquearlo."
+247 = "Completa todos los tutoriales para \ndesbloquearlo."
 248 = "¡Felicidades!"
 249 = "- Próximamente -"
 250 = "Otro jugador conectado.\nReglas restablecidas."
@@ -282,8 +282,10 @@
 269 = "`1 no aceptó los cambios de reglas."
 270 = "- Aviso -\nLa repetición contiene personajes de Workshop \ndesactualizados. \n¿Ver de todas formasl?"
 271 = "Descarga Creatures of Aether,\ngratis en Steam\npara desbloquearlo."
-272 = "Compra Dungeons of \nAether, en Steam para\ndesbloquearlo."
-273 = "Compra Settlemoon \nen Steam para \ndesbloquearlo."
+272 = "Compra Dungeons of\nAether, en Steam para\ndesbloquearlo."
+273 = "Compra Settlemoon\nen Steam para \ndesbloquearlo."
+274 = "Compra Ghost Croquet\nen Steam para\ndesbloquearlo."
+275 = "Compra Cross Blitz\nen Steam para \ndesbloquearlo."
 
 //----
 290 = "¡LISTO PARA JUGAR!"
@@ -330,10 +332,10 @@
 319 = "Vuelve al menú principal."
 
 //---- Online Sub-Menu
-320 = "CLASIF."
+320 = "IGUALADA"
 321 = "Encuentra a un oponente de tu mismo nivel en una partida 1c1."
 322 = "CASUAL"
-323 = "Encuentra a un oponente cualquiera, sin rangos."
+323 = "Encuentra a un oponente cualquiera. Sin rangos."
 324 = "Partida amistosa"
 325 = "Invita a un amigo de tu elección a jugar"
 326 = "Por equipos"
@@ -354,7 +356,7 @@
 333 = "Ajusta y asigna tus teclas."
 334 = "Sonido"
 335 = "Adjusta el volumen de la música y efectos."
-336 = "Visuales"
+336 = "Visuales e idioma"
 337 = "Ajusta los visuales a tu comodidad."
 338 = "Gráficos"
 339 = "Ajusta el rendimiento gráfico si tu equipo lo requiere."
@@ -368,14 +370,14 @@
 345 = "Revive tus mejores momentos."
 346 = "Cuentos de Aether"
 347 = "Mira de nuevo las cinemáticas del Modo Historia."
-348 = "Prueba de audio"
+348 = "Galería de música"
 349 = "Reproduce y escucha tus pistas favoritas del juego."
 350 = "Mis registros"
 351 = "Mira las estadísticas de cada rival y perfil."
 352 = "Colores personalizados"
 353 = "Pinta y colorea a los rivales a tu gusto."
 554 = "Steam Workshop"
-555 = "Gestiona y sube tus propios escenarios para Rivals of Aether"
+555 = "Gestiona y sube tus propios escenarios de Rivals of Aether"
 552 = "Creador de escenario" // for console
 553 = "Crea tus propios escenarios para Rivals of Aether"
 354 = "Créditos"
@@ -424,9 +426,9 @@
 //---- Display Options
 390 = "Pantalla"
 391 = "Cambia entre pantalla completa u otros tamaños."
-392 = "Daño en HUD"
+392 = "Daño en IU"
 393 = "Muestra el daño sobre la cabeza de los rivales."
-394 = "Nombres en HUD"
+394 = "Nombres en IU"
 395 = "Muestra el nombre del perfil sobre la cabeza de los rivales."
 396 = "Efectos"
 397 = "Ajusta la calidad de efectos para mayor rendimiento."
@@ -434,7 +436,7 @@
 399 = "Cambia la tasa de fotogramas por segundo si baja de 60."
 400 = "@318"
 401 = "Regresa al menú de opciones."
-402 = "Efectos en HUD"
+402 = "Efectos en IU"
 403 = "Las barras de estado vibran cuando los rivales son golpeados."
 404 = "Efectos Retro"
 405 = "Activa cierta transparencia en pixeles y efectos."
@@ -443,7 +445,7 @@
 408 = "Texto de depuración"
 409 = "Muestra el texto de depuración. Útil para hayar encontrar errores."
 410 = "Idioma"
-411 = "Cambia el idioma del juego. Traducción por =El_Geri= Con Swag."
+411 = "Cambia el idioma del juego. Traducción por =El_Geri= con Swag."
 412 = "Sinc. vertical"
 413 = "Fuerza al juego a correr a la taza de hercios de tu monitor."
 564 = "Efectos accesibles"
@@ -563,7 +565,7 @@
 550 = "SI" // for Wi-Fi Mode (must fit in 4 characters)
 551 = "NO" // for Wi-Fi Mode
 566 = "Barra superior"
-567 = "Muestra estadísticas hasta arriba de la pantalla. Solo en línea."
+567 = "Muestra un marcador arriba de la pantalla. En línea y torneos."
 
 //---- Team Match Sub-Menu
 502 = "Casual por equipos"
@@ -672,11 +674,11 @@
 612 = "BAJO"
 613 = "ALTO"
 //----
-614 = "N/A"
+614 = "-"
 //---- Formato de hora:
-615 = "12 HRS."
+615 = "AM/PM"
 616 = "24 HRS."
-//---- HUD Damage:
+//---- IU Damage:
 617 = "PEQUEÑO"
 618 = "GRANDE"
 //----
@@ -693,11 +695,11 @@
 
 //--------------------
 
-638 = "DESBORDE"
-639 = "Todas las runas de Abismo están bloqueadas para esta partida."
-640 = "Todas las runas de Abismo están equipadas para esta partida."
-641 = "¡Desbloquea objetos exclusivos llegando a la línea amarilla!"
-642 = "Todos los premios de hitos están desbloqueados para esta partida."
+638 = "ETÉREO"
+639 = "Todas las runas de Abismo están desbloqueadas para esta sesión."
+640 = "Todas las runas de Abismo están equipadas para esta sesión."
+641 = "¡Desbloquea increíbles premios alcanzando la línea amarilla!"
+642 = "Todos los premios de hitos están desbloqueados para esta sesión."
 
 //--------------------
 
@@ -732,8 +734,8 @@
 //--------------------
 
 //---- Replay menu button: sort by
-661 = "ORDEN"
-662 = "NUEVOS"
+661 = "ORDENAR"
+662 = "FECHA"
 663 = "FAV." // replays marked as favorites
 664 = "ABC" // alphabetical order
 
@@ -759,8 +761,8 @@
 681 = "En línea clasificatoria"
 682 = "(sin descripción)"
 683 = "" // x/128 Replays
-684 = "Las repeticiones sin estrellas serán sobre -" // (1/2)
-685 = "escritas cuando no haya más espacios." // (2/2)
+684 = "Las repeticiones sin estrellas serán boradas" // (1/2)
+685 = "cuando no haya más espacios." // (2/2)
 686 = "MIRAR"
 687 = "RENOMBRAR"
 688 = "EDITAR DESCRIPCIÓN"
@@ -769,10 +771,10 @@
 691 = "EXPORTAR"
 
 //---- Sound Test display
-693 = "Animación sincronizada por"
+693 = "Animación por"
 694 = "Sin sonido"
 695 = "Música"
-696 = "Compuesta por"
+696 = "Recompuesta por"
 697 = "Composición original"
 698 = "Agradecimientos especiales"
 699 = "Originario de `1 por `2"
@@ -781,7 +783,7 @@
 //--------------------
 
 //---- Pause Menu
-701 = "[`1]: Ocultar/Mostrar HUD."
+701 = "[`1]: Ocultar/Mostrar IU."
 702 = "[`1]: Salir al menú."
 703 = "OPCIONES"
 704 = "OPCIONES"
@@ -806,9 +808,9 @@
 721 = "DI DE CPU: "
 722 = "DRIFT DE CPU: "
 723 = "TECH DE CPU: "
-724 = "HUD: " // more like "HUD toggle": turns it on/off
-725 = "CONTROLAR" //replay: allows you to control your character inside the replay
-726 = "REINICIAR REPET."
+724 = "IU: " // more like "IU toggle": turns it on/off
+725 = "¡JUGAR!" //replay: allows you to control your character inside the replay
+726 = "REINICIAR"
 
 //---- Pause: Training CPU DI behaviors
 727 = "Dentro" //training CPU DI behaviors
@@ -850,7 +852,7 @@
 755 = "ESQUIVO"
 756 = "Mientras la repet. siga:"
 757 = "[`1]: Control de cámara"
-758 = "[`1] / [`2]: Cambiar velocidad"
+758 = "[`1] / [`2]: Cambiar vel. de cámara"
 759 = "[`1]: Avanzar por fotogramas"
 
 //--- Pause: menu header text
@@ -863,22 +865,22 @@
 772 = "Press [`1] to go back." // switch
 
 // --- Practice Mode
-780 = "1 Avanzar por fotograma."
+780 = "`1: Avanzar por fotograma."
 781 = "CTRL+[8]: Mostrar mensajes de error."
 782 = "Mensajes de error: " // ... ON / OFF
-783 = "Pausa de fotog."
+783 = "Pausa de fotograma"
 784 = "Mantén `1"
 785 = "HUMANO" // Training CPU action: makes them controlled by controllers
 786 = "[F5]: Cargar de nuevo artículos de Workshop."
 
-//---- HUD: Abyss Objectives
+//---- IU: Abyss Objectives
 801 = "Derrota a `1 enemigos"
 802 = "¡Destruye los portales!" //i.e. break the targets
-803 = "¡Sovrevive a las explosiones y pelea!" //vs 1 enemy with randomly-spawning explosions
+803 = "¡Sobrevive a las explosiones y pelea!" //vs 1 enemy with randomly-spawning explosions
 804 = "¡Destruye las semillas!" //falling seeds
 805 = "Derrota al enemigo reforzado"
 806 = "Derrota a `1 enemigos"
-807 = "¡Destruye el obelisco!" //failing to destroy quickly results in stage-filling explosion
+807 = "¡Destruye el obelisco, AHORA!" //failing to destroy quickly results in stage-filling explosion
 808 = "Envía a los enemigos de vuelta a los portales"
 809 = "Absorbe la luz"
 810 = "¡No toques el suelo!"
@@ -888,7 +890,7 @@
 814 = "¡Derrota a los Porteros!"
 815 = "Restaura tu salud"
 
-//---- HUD: Abyss Status
+//---- IU: Abyss Status
 816 = "PORTALES: "
 817 = "TIEMPO: "
 818 = "SEMILLAS: "
@@ -904,7 +906,7 @@
 828 = ""
 829 = "HORDA "
 
-//---- HUD: SK Shop
+//---- IU: SK Shop
 830 = "CUERNO DE GUERRA"
 831 = "ENGRANE MÓVIL"
 832 = "GUANTE FANTASMA"
@@ -914,13 +916,13 @@
 836 = "Haste espacio con un ruidoso sonido de guerra."
 837 = "Pasa sobre peligros y directo al combate."
 838 = "Lanza puños fantasmales con buen alcance."
-839 = "Permite realizar FUERTES en el aire tras impactar FUER-ABJ."
-840 = "Disminuye el empuje recibido, pero da menos tracción."
+839 = "Permite realizar FUERTES en el aire tras impactar AER-ABJ."
+840 = "Aumenta tu resistencia, pero da menos tracción."
 841 = "Dorada, bonita, acrobática... e inútil.\nNo hace nada."
 842 = "ATQ: COMPRAR"
 843 = "BURLA: SALIR"
 
-//---- HUD: Leyes de la Torre
+//---- IU: Leyes de la Torre
 844 = "Ley #1: No tocarás bloques dorados."
 845 = "Ley #2: No tocarás paredes lateralmente."
 846 = "Ley #3: No esquivarás, desviarás ni rodarás."
@@ -928,14 +930,14 @@
 848 = "El Libro de Leyes se corrompe."
 849 = "LEY"
 
-//---- HUD: Frame Advance
+//---- IU: Frame Advance
 850 = "Avanze por fotograma"
 851 = "Salir"
 852 = "Sig. fotog."
 853 = "BURLA: Reiniciar temporizador"
-854 = "Tiempo"
+854 = "Temporizador"
 
-//---- HUD: Misc
+//---- IU: Misc
 855 = "TIEMPO EXTRA"
 856 = "MANTÉN PARA PAUSAR";
 857 = "MANTÉN PARA SALIR";
@@ -943,7 +945,7 @@
 859 = "MEJOR TIEMPO" // story mode
 860 = "NIVEL `1" // story mode
 861 = "PUNTAJE" // credits scene
-862 = "¡SUBE DE NIVEL!" // abyss mode
+862 = "¡NUEVO NIVEL!" // abyss mode
 863 = "MODO DEV"
 864 = "MODO DEV ACTUALIZADO - PRESIONA [F3] PARA RECARGAR"
 865 = "MODO TURBO"
@@ -984,28 +986,28 @@
 910 = "¡`1 GANAN!" // used for Ori and Sein
 
 //---- VS Result Boxes
-911 = "Derrotados"
+911 = "Eliminaciones"
 912 = "Muertes"
-913 = "Suicidios"
+913 = "Accidentes"
 914 = "Daño infligido"
 915 = "Daño recibido"
 916 = "Desvíos"
 917 = "Mayor combo"
-918 = "% Precisión"
+918 = "Precisión"
 919 = "MANTÉN PARA SALIR"
 920 = ""
 
 //---- My Stats
 921 = "LOCAL"
 922 = "EN LÍNEA"
-923 = "CLASIF."
+923 = "IGUALADAS"
 924 = "PARTIDAS"
 925 = "VICTORIAS"
 926 = "DERROTAS"
 927 = "% VICTORIAS"
-928 = "DERROTADOS"
+928 = "ELIMINADOS"
 929 = "MUERTES"
-930 = "SUICIDIOS"
+930 = "ACCIDENTES"
 931 = "DAÑO INFLIGIDO"
 932 = "DAÑO RECIBIDO"
 933 = "DESVÍOS"
@@ -1023,15 +1025,15 @@
 941 = "INFO."
 942 = "INFO."
 943 = "TACHAR/VETAR ESCENARIO"
-944 = "LÍMITE DEL TECHO"
-945 = "LÍMITE DEL SUELO"
+944 = "LÍMITE TECHO"
+945 = "LÍMITE SUELO"
 946 = "LÍMITE LATERAL"
-947 = "LONGITUD DEL SUELO"
+947 = "LONGITUD SUELO"
 948 = "Tacha un escenario"
-949 = "Veta 3 escenarios"
+949 = "Veta tres escenarios"
 950 = "Escoge un escenario"
-951 = "`1 está vetando..."
-952 = "`1 está tachando..."
+951 = "`1 está tachando..."
+952 = "`1 está vetando..."
 953 = "`1 está escogiendo..."
 954 = "LOGRO"
 955 = "MUY PEQUEÑO"
@@ -1041,11 +1043,11 @@
 959 = "MEDIANO"
 960 = "ABRE LAS \nPUERTAS"
 961 = "EL RIVAL\nARDIENTE"
-962 = "CONTRA ELECCIÓN."
+962 = "CONTRA ELECC."
 963 = "Veta un escenario"
-964 = "PRINCIPALES"
+964 = "RIVALS OF AETHER"
 965 = "WORKSHOP"
-966 = "Hecho por:"
+966 = "Por:"
 967 = "" // reserved
 968 = "VETAR"
 
@@ -1210,18 +1212,18 @@
 1086 = "La extrañamente antigua construcción aparenta ser una puerta. A traves de este portal, los rivales miran un vasto abismo que va mas allá de las profundidades de Aether."
 1087 = "Esto debe de ser el origen de la plaga del hogar de Maypul y de aquellos los clones sombríos. Nuestros guerreros ponen sus rivalidades de lado. Saben bien lo que tienen que hacer."
 //---- 2
-1088 = "Las criaturas sombrías han sido destruidas. Los nuevos y unidos guerreros olvidan sus rivalidades anteriores y escogen ser aliados para combatir a cualquier otra amenaza que atente en contra de Aether."
+1088 = "Las criaturas sombrías han sido destruidas. Los nuevos y unidos guerreros olvidan sus rivalidades y escogen ser aliados para combatir a cualquier otra amenaza que atente en contra de Aether."
 1089 = "El misterio de las sombras aún se mantiene. ¿Qué era lo que querían? ¿Por qué hicieron tales actos entre la gente de Aether? Pero sobre todo, ¿Volverán algún día?"
 
 
 //---- MAP DESCRIPTIONS
-1290 = "LA BATALLA FINAL EN LAS PUERTAS ETÉREAS: Los 6 rivales unen fuerzas para combatir la misteriosa fuerza que amenaza a todo Aether."
-1291 = "EL VIAJE DE KRAGG AL REFUGIO ARBOLEDA: El fiel Constructor rompe su voto para combatir a un mayor oponente."
+1290 = "LA BATALLA FINAL EN LAS PUERTAS ETÉREAS: Los 6 rivales unen fuerzas para combatir a la misteriosa fuerza que amenaza a todo Aether."
+1291 = "EL VIAJE DE KRAGG AL REFUGIO ARBOLEDA: El fiel Constructor rompe su voto para combatir a una mayor amenaza."
 1292 = "EL VIAJE DE MAYPUL AL ESCONDITE LLAMEANTE: Una misteriosa plaga lleva a la vigilante arboleda a un viaje para encontrar el origen del sufrimiento de Aether."
 1293 = "EL ENCUENTRO DE WRASTOR EN EL MURO DE ROCA: El Ás aéreo de la Armada Aérea se encuentra a un inesperado adversario en una de sus patrullas rutinarias."
 1294 = "EL RETORNO DE FORSBURN A LA CAPITAL DEL FUEGO: El hijo desterrado vuelve para ayudar al hermano que una vez lo abandonó."
 1295 = "LA INFILTRACIÓN DE ORCANE EN LA ARMADA AÉREA: El juerguista acuático se infiltra detrás de líneas enemigas para ayudar a su familia adoptiva."
-1296 = "EL VIAJE DE ZETTERBURN HACIA PUERTO MERCANTE: Atormentado por la muerte de su padre, el hijo prodigio de la Capital del Fuego pelea para reclamar lo que por derecho le pertenece a su hogar."
+1296 = "EL VIAJE DE ZETTERBURN HACIA PUERTO MERCANTE: Atormentado por la muerte de su padre, el hijo de la Capital del Fuego pelea para reclamar lo que por derecho le pertenece a su hogar."
 
 
 //--------------------
@@ -1275,7 +1277,7 @@
 1381 = "Cabello"
 1382 = "Electricidad"
 1383 = "Cuernos"
-1384 = "Barriga"
+1384 = "Detalles"
 
 1390 = "Cuerpo" //eta
 1391 = "Hielo"
@@ -1290,7 +1292,7 @@
 1410 = "Cuerpo 1" //ran
 1411 = "Cuerpo 2"
 1412 = "Pantalón"
-1413 = "Bendaje"
+1413 = "Vendaje"
 1414 = "Veneno"
 
 1420 = "Cuerpo" //cla
@@ -1307,7 +1309,7 @@
 1433 = "Pétalos 1"
 1434 = "Pétalos 2"
 
-1440 = "Mecha" //ell
+1440 = "Mech" //ell
 1441 = "Ornamentos"
 1442 = "Cuerpo"
 1443 = "Hélices"
@@ -1815,11 +1817,11 @@
 1900 = "¡Hola!"
 1901 = "¡Vamos!"
 1902 = "¡Buena suerte!"
-1903 = "No seas duro conmigo"
+1903 = "¡No seas duro conmigo!"
 1904 = "¡Listo cuando lo estés!"
 1905 = "¡Iré con todo!"
 1906 = "Estoy algo nervioso..."
-1907 = "Esto será fácil"
+1907 = "Esto será fácil."
 
 //---- Online chat pg2 (responses)
 1908 = "¡Okey!"
@@ -1827,12 +1829,12 @@
 1910 = "GG"
 1911 = "¡Juguemos otra!"
 1912 = "¡Increíble!"
-1913 = "Lo siento"
+1913 = "Lo siento."
 1914 = "Ouch..."
 1915 = "¡Te ganaré a la siguiente!"
 
 //---- Online chat pg3 (misc)
-1916 = "Espérame un momento."
+1916 = "Espera un momento."
 1917 = "Hagamos una Apuesta."
 1918 = "Dejaré de jugar."
 1919 = "Olvidé asignar mis controles."
@@ -1843,9 +1845,9 @@
 
 //---- Online chat pg4 (chars 1)
 
-1924 = "Me estoy acalorando." // Zetterburn Taunt
+1924 = "Apenas estoy calentando." // Zetterburn Taunt
 1925 = "Vaya resbalón." // Orcán Taunt
-1926 = "¡Eso fue refrescante!" // Wrastor Taunt
+1926 = "¡Eso fue un nuevo aire!" // Wrastor Taunt
 1927 = "¡Fuiste aplastado!" // Kragg Taunt
 
 1928 = "¡Estoy en racha ardiente!" // Zetterburn Situational
@@ -1855,9 +1857,9 @@
 
 //---- Online chat pg5 (chars 2)
 
-1932 = "Haz sido fumado." // Forsburn Taunt
+1932 = "Haz sido apagado." // Forsburn Taunt
 1933 = "Lily juega mejor que tú." // Maypul Taunt
-1934 = "He estado practicando." // Absa Taunt
+1934 = "Entrené para esto." // Absa Taunt
 1935 = "Estás parado en hielo delgado." // Etalus Taunt
 
 1936 = "Me superé a mí mismo..." // Forsburn Situational
@@ -1874,7 +1876,7 @@
 
 1944 = "¡Ilumínate!" // Ori Situational
 1945 = "¡Ahí te ves, paz!" // Ranno Situational
-1946 = "Mi precencia es un regalo." // Clairen Situational
+1946 = "Mi precencia es un presente." // Clairen Situational
 1947 = "¡¡AWWWRRROOOOOO!!" // Sylvanos Situational
 
 //---- Online chat pg7 (chars 4)
@@ -1885,7 +1887,7 @@
 1951 = "¡Extinguido!" // Mollo Taunt
 
 1952 = "¡Culpo a mis controles!" // Elliana Situational
-1953 = "¿Puedes cabar más al respecto?" // Shovel Knight Situational
+1953 = "¿Puedes a-cavarlo?" // Shovel Knight Situational
 1954 = "LOL. Solo presionaba botones." // Random Situational
 1955 = "Bueno, eso fue un fiasco..." // Mollo Situational
 
@@ -1910,20 +1912,20 @@
 //-------------------------------------
 
 //---- ZETTERBURN
-2000 = "El efecto en llamas dura más tiempo."
+2000 = "Los enemigos se incendian por más tiempo."
 2001 = "Las bolas de fuego son el doble de rápidas."
 2002 = "FUERT-LAT. tiene más alcance."
 2003 = "Zetterburn se mueve más rápido en el suelo."
-2004 = "La explosión de ESPEC-ABJ. detona más rápido."
+2004 = "La explosión de ESPEC-ABJ. se detona más rápido."
 2005 = "ESPEC-ARR. se ejecuta más rápido."
 2006 = "Las llamas del suelo explotan cuando Zetterburn las pisa."
-2007 = "Las bolas de fuego de ESPEC-LAT. nunca expiran y siempre continuan al frente."
-2008 = "AER-FRON. y AER-ARR. tienen mayor empuje contra oponentes en llamas."
+2007 = "Las bolas de fuego de ESPEC-LAT. nunca expiran y siempre vuelan al frente."
+2008 = "AER-FRON. y AER-ARR. empujan aún más a enemigos en llamas."
 2009 = "ESPEC-ARR tiene mayor alcance y puede angularse en medio vuelo."
 2010 = "Las bolas de fuego son más lentas, pero son más grandes y fuertes."
 2011 = "ESPEC-ABJ. hace que caigan meteoritos al tocar el suelo."
 2012 = "Las bolas de fuego atureden oponentes."
-2013 = "Zetterburn recibe armadura al ejecutar ESPEC-ARR. y ABJ."
+2013 = "Zetterburn recibe armadura al ejecutar ESPEC-ARR. y ESPEC-ABJ."
 2014 = "ESPEC-N. se carga más rápido y es más fuerte."
 
 //---- ORCANE
@@ -2034,7 +2036,7 @@
 2107 = "El hielo dura aún más tiempo antes de derretirse."
 2108 = "ESPEC-ABJ. tiene super armadura."
 2109 = "Etalus ahora daña al ser lanzado con ESPEC-ARR."
-2110 = "ESPEC-ARR. siempre lanza a Etalus a su máxima."
+2110 = "ESPEC-ARR. siempre lanza a Etalus a su máxima altura."
 2111 = "ESPEC-LAT. lanza más estalactitas de hielo."
 2112 = "Etalus es más rápido cuando tiene armadura."
 2113 = "ESPEC-ABJ. siempre impacta a todo aquel que esté en el suelo."
@@ -2059,7 +2061,7 @@
 2130 = "Ori tiene armadura al usar ESPEC-ABJ."
 2131 = "ESPEC-ABJ. se ejecuta más rápido y lanza oponentes de inmediato."
 2132 = "Ori ahora usa Hoja y Maza Espiritual y todos sus aéreos incrementan su alcanse y fuerza."
-2133 = "ESPEC-N. golpea a todos los enemigos con Destello. Carga ESPEC-N. para usar Incendieo."
+2133 = "ESPEC-N. golpea a todos los enemigos con Destello. Carga ESPEC-N. para lanzar Incendio."
 2134 = "Al hacer una burla, Ori coloca un Vínculo de Alma (una vez por vida)."
 
 //---- RANNO
@@ -2205,9 +2207,9 @@
 2258 = "ESPEC-LAT. agarra oponentes y los lanza hacia el frente."
 2259 = "Incrementa la velocidad de movimiento de Olímpia."
 2260 = "Las gemas ahora resisten 2 golpes."
-2261 = "Olímpia puede romper sus propias gemas con cualquier FUERTE para darse unaresistencia de 1 golpe."
+2261 = "Olímpia puede romper sus propias gemas con cualquier FUERTE para darse una armadura."
 2262 = "ESPEC-LAT. deja un rastro de picas de cristal."
-2263 = "Mientras esté en el campo de su gema, podrá cancelar la recup. tras impactar para detonarlo."
+2263 = "Mientras esté en el campo de su gema, Olímpia podrá cancelar la recup. tras impactar para detonarlo."
 2264 = "Los enemigos cristalizados rebotan en el suelo y toman daño extra en el proceso."
 2265 = "Golpear a un enemigo con la gema de ESPEC-N. lo cristaliza."
 2266 = "Las picas de cristal se activan cuando alguien se les acerca."
@@ -2231,7 +2233,7 @@
 2310 = "Kragg también puede rodar con ESPEC-LAT. En esta forma, recibe daño, pero no puede ser empujado."
 2311 = "Para recuperarse, Kragg invoca un pilar de roca debajo de él con ESPEC-ARR. que impacta enemigos y del que puede sacar rocas."
 2312 = "Forsburn puede crear cortinas de humo con ESPEC-N. y puede esconderse en él mientras no ataque."
-2313 = "Forsburn podrá consume su propio humo con ESPEC-ABJ. y, tras consumir 3 nubes, sus ESPECIALES se potencian."
+2313 = "Forsburn consume su propio humo con ESPEC-ABJ. y tras consumir 3 nubes, sus ESPECIALES se potencian."
 2314 = "Forsburn puede crear un clon de sí mismo con ESPEC-LAT. y hacerlo explotar con ESPEC-ABJ."
 2315 = "Maypul marcará con hojas a enemigos con varios de sus ESPECIALES."
 2316 = "También los podrá atrapar con ataduras al usar algún FUERTE contra ellos, removiendo la marca."
@@ -2243,21 +2245,21 @@
 2322 = "También puede usar ESPEC-N. sobre el hielo para darse una armadura que retiene parte del daño y empuje recibido"
 2323 = "Al usar ESPEC-ABJ., Etalus hará un sentón al suelo  que destruye todo el hielo en él y congela a quienes lo estén pisando"
 2324 = "Ori y Sein pelean juntos como equipo. Si Sein está cerca de Ori, sus FUERTES son mejorados."
-2325 = "Presiona ESPEC-N. para que Sein dispara hasta 3 Llamas del Espíritu y mantenlo para que libere una Llama Cargada."
+2325 = "Presiona ESPEC-N. para que Sein dispare hasta 3 Llamas del Espíritu y mantenlo para que libere una Llama Cargada."
 2326 = "Ori puede usar Golpe como ESPEC-ABJ. para lanzar enemigos o cualquier proyectil en la dirección deseada."
 2327 = "Ranno puede envenenar enemigos con sus ESPECIALES, haciendo que estos reciban daño cada que ataquen."
 2328 = "Ranno puede atrapar enemigos con sus burbujas. A más envenenados estén, más tiempo estarán atrapados"
-2329 = "También puede impulsarse rápidamente hacia el escenario enganchando su lengua con ESPEC-LAT."
-2330 = "La punta de la espada de Clairen inflige un poco más de daño y aturde a los enemigos."
+2329 = "Ranno también puede impulsarse rápidamente hacia el escenario enganchando su lengua con ESPEC-LAT."
+2330 = "La punta de la espada de Clairen inflige más de daño y aturde a los enemigos."
 2331 = "Con ESPEC-ABJ, Clairen puede contraatacar para crear un campo de plasma que no permite a los proyectiles entrar ni salir."
 2332 = "También puede agarrar enemigos con ESPEC-N. para después lanzarlos hacia al frente o atrás."
 2333 = "Mientras siga en el suelo, Silvanos crea pasto por donde camine. El pasto mejora sus ESPECIALES."
 2334 = "Silvanos se lanza con ESPEC-ARR. para cavar hacia el escenario y dar una poderosa mordida si está en el pasto."
 2335 = "Sylvanos aulla con ESPEC-ABJ., haciendo que todo su pasto ataque."
-2336 = "El Mecha de Elliana genera calor cada vez que vuela o usa algún ESPECIAL. Si se sobrecalienta, pierde acceso a ellos."
-2337 = "Los FUERTES de Elliana disparan vapor para enfriar al Mecha y puede dispararse en el aire. Si el Mecha se sobrecalenta, el vapor es reemplasado por explosiones."
+2336 = "El Mecha de Elliana genera calor cada vez que vuela o usa ESPECIALES. Si se recalienta, pierde acceso a ellos."
+2337 = "Los FUERTES de Elliana disparan vapor para enfriar al Mecha y puede dispararse en el aire. Si el Mecha se recalenta, el vapor es reemplasado por explosiones."
 2338 = "Elliana es eyectada del Mecha con ESPEC-ARR., y solo podrá hacer ESQUIVOS y saltos de pared nada hasta que toque el suelo de nuevo."
-2339 = "Shovel Knight reune gemas que salen de los oponentes que golpea. Dichas gemas las podrá gastar en una tienda que abre como su BURLA."
+2339 = "Shovel Knight reune gemas que salen de los oponentes que golpea. Las gemas se gastan en una tienda que abre como su BURLA."
 2340 = "Mantener AER-ABJ. mantedrá fuera la pala de Shovel Knight, permitiéndole rebotar y dañar múltiples veces en enemigos."
 2341 = "Si se carga totalmente FUER-ARR., Shovel Knight lanzará hacia arriba un bloque de tierra con gemas dentro."
 2342 = "Mollo puede usar diversos tipos de bombas manteniendo ESPEC-N. Aunque no lo exime de ser atacado por sus propias explosiones." 
@@ -2278,15 +2280,15 @@
 2401 = "ALEATORIO"
 2402 = "Capital de Fuego"
 2403 = "Armada Aérea"
-2404 = "El Muro de Roca"
+2404 = "Muro de Roca"
 2405 = "Puerto Mercante"
 2406 = "Refugio Arboleda"
 2407 = "Escondite flameante"
 2408 = "Torre del Cielo"
-2409 = "Pico Tempestad"
+2409 = "Monte Tempestad"
 2410 = "Fortaleza Congelada"
-2411 = "Puertas Etéreas"
-2412 = "El Abismo Infinito"
+2411 = "Godai Delta"
+2412 = "Abismo Infinito"
 2413 = ""
 2414 = "Ring CEO"
 2415 = "El Árbol del Espíritu"
@@ -2294,24 +2296,25 @@
 2417 = "Neo Capital"
 2418 = "Estuario Pantanoso"
 2419 = "El Suelo del Bosque"
-2420 = "Villa Jules"
-2421 = "Lago Troupple"
+2420 = "Julesvale"
+2421 = "Charca Truchanzana"
 2422 = "Sala de Práctica"
 2423 = "Academia Aether"
-2424 = "Pridemoor Keep"
-2425 = "Puertas Congeladas"
+2424 = "Fortaleza del Orgullo"
+2425 = "Puertas Heladas"
 2426 = "El Tutorial"
 2427 = "Ring RoA"
 2428 = ""
 2429 = "Cancha de Tether"
 2430 = ""
 2431 = ""
-2432 = "Neo Carriles Flameantes"
+2432 = "Neo Carriles"
 2433 = "Cima Termal"
-2434 = "Neo Villa Jules"
+2434 = "Neo Julesvale"
 2435 = "Oasis de Cristal"
-2436 = "Corte Diamante"
-2437 = "Minas Tejón Co."
+2436 = "Arboleda Diamante"
+2437 = "Minas Badger Co."
+2438 = "Torre del Cielo EX"
 
 //---- CSS Options [2500-2549]
 2500 = "¿USAR CONTROLES PREDET. DE TECLADO?"
@@ -2346,21 +2349,21 @@
 2529 = "[`1]: Añadir CPU."
 2530 = "[`1]: Salir."
 2531 = "¿BORRAR PERFIL?"
-2532 = "*Para cambiar los controles, primero crea un perfil."
+2532 = "*Primero crea un perfil para cambiar los controles."
 2533 = "ARRIBA"
 2534 = "ABAJO"
 2535 = "IZQ."
 2536 = "DER."
-2537 = "2 PRES."
-2538 = "AUTOCORR."
+2537 = "2-PRES = CORR"
+2538 = "AUTO CORRER"
 2539 = "RATÓN"
 2540 = "CLIC IZQ."
 2541 = "CLIC DER."
 2542 = "RUEDA"
-2543 = "elim."
+2543 = "elim"
 2544 = "PROBANDO..."
 2545 = "@2538"
-2546 = "DOBLE TOQUE"
+2546 = "2-PRES.=CORR."
 2547 = "PREDET."
 2548 = "@2539"
 2549 = "COMPAÑEROS"
@@ -2375,7 +2378,7 @@
 2556 = "FUERTE"
 2557 = "ESQUIVO"
 2558 = ""
-2559 = "N/A"
+2559 = "NADA"
 2560 = ""
 2561 = ""
 2562 = ""
@@ -2386,8 +2389,8 @@
 //--- CSS Input Options [2780-2789]
 2780 = "AJUSTES DE INPUT"
 2781 = "AUTO"
-2782 = "BUFFER DE INPUT"
-2783 = "BUFFER DE CORR."
+2782 = "BUFFER"
+2783 = "BUFFER CORRER"
 2784 = "MODO WI-FI"
 2785 = "ROLLBACK MÁX."
 //----
@@ -2406,7 +2409,7 @@
 2581 = "Apariencia de oro"
 2582 = "Ícono de Platino"
 2583 = "Emoticón de Diamante"
-2584 = "Person. de Maestro"
+2584 = "Artículos Maestros"
 
 //---- CSS Spectators Sub-Menu
 2585 = "ESPECTAR"
@@ -2431,8 +2434,8 @@
 2610 = "REGISTROS"
 2611 = ""
 //
-2612 = "CLASIF."
-2613 = ""
+2612 = "PARTIDA"
+2613 = "IGUALADA"
 //
 2614 = "CLASIFICACIÓN"
 2615 = ""
@@ -2440,8 +2443,8 @@
 2616 = "CRÉDITOS"
 2617 = " "
 //
-2618 = "PRUEBA"
-2619 = "DE AUDIO"
+2618 = "GALERÍA"
+2619 = "DE MÚSICA"
 //
 2620 = "REPET."
 2621 = ""
@@ -2455,8 +2458,8 @@
 2626 = "CONTROLES"
 2627 = "DE TECLADO"
 //
-2628 = "MENÚS" // sub-section titles for keyboard controls screen
-2629 = "JUEGO"
+2628 = "JUEGO" // sub-section titles for keyboard controls screen
+2629 = "MENÚS"
 //
 2630 = "EN LÍNEA"
 2631 = ""
@@ -2537,6 +2540,7 @@
 2693 = "MAX ROLLBACK" //2783 unused?
 2694 = "AUTO RETRASO"
 2695 = "RETRASO AÑAD."
+2696 = "BARRIDO"
 
 //-----------------------------------
 // Staff Roll [2700-2749, 2780-2799]
@@ -2561,7 +2565,7 @@
 2716 = "Animación de\nintroducción por `1"
 2717 = "Consulta de programación"
 2718 = "Consulta de diseños"
-2719 = "Consulta de HUD"
+2719 = "Consulta de IU"
 2720 = "Traducción al japonés"
 2721 = "Playtesters"
 2722 = "Agradecimientos"
@@ -2574,7 +2578,7 @@
 2744 = "¡GRACIAS POR JUGAR!"
 2745 = "Director de Esports"
 2746 = "Marketing"
-2747 = ""
+2747 = "Traducción al español"
 2748 = ""
 2749 = ""
 2780 = ""
@@ -2594,7 +2598,7 @@
 2726 = "CTO"
 2727 = "Líder de ingeniería"
 2728 = "Tecnilogía base"
-2729 = "Arte del HUD"
+2729 = "Arte del IU"
 2730 = "Documentación"
 2731 = "Gerente de Preguntas\ny Respuestas"
 2732 = "Equipo de Preguntas\ny Respuestas"
@@ -2630,7 +2634,7 @@
 // CSS Match Types [2770-2779]
 //-----------------------------
 
-2770 = "PARTIDA CLASIF."
+2770 = "PARTIDA IGUALADA"
 2771 = "APUESTA"
 2772 = "PARTIDA CASUAL"
 2773 = "PARTIDA AMISTOSA"
@@ -2660,7 +2664,7 @@
 2810 = "APARIENCIAS"
 2811 = "CAMBIAR ORDEN"
 2812 = "TERNIMAR"
-2813 = "(no hay artículos)"
+2813 = "(sin artículos)"
 2814 = "Tus elementos sacados de Steam Workshop se mostrarán aquí.\nPuedes suscribirte a contenido creado por la comunidad en la página de Steam Worshop de Rivals of Aether."
 2815 = "Usuario de Workshop" // used as the default author name
 2816 = "ABRIR ESCENARIO"
@@ -2674,14 +2678,20 @@
 2824 = "Una runa misteriosa. Quien sabe qué hará..."
 2825 = "No hay runa en este espacio"
 
-2826 = "PERSONAJES"
-2827 = "COMPAÑEROS"
-2828 = "ESCENARIOS"
+2826 = "PERSONAJE"
+2827 = "COMPAÑERO"
+2828 = "ESCENARIO"
 2829 = "APARIENCIA DE `1"
 
 2830 = "ACOMODAR TODO"
 2831 = "¡Eliminar toda las categorias y reacomodar la lista?" // for characters
 2832 = "¿Reacomodar toda la lista?" // for everything else
+
+2833 = "CARGANDO FUENTES" 
+2834 = "Ingresa texto" 
+2835 = "Ingresa texto (PLAYER `1)" 
+2836 = "Ingresa categoría"
+
 
 //--------------------------
 // Stage Editor [2900-2999]
@@ -2742,7 +2752,7 @@
 2949 = ""
 2950 = "REINIC. CÁMARA"
 2951 = "Escen. guardado."
-2952 = "Espera un momento e inténtalo de nuevo."
+2952 = "Inténtalo de nuevo más tarde."
 2953 = "`1 activado."
 2954 = "`1 desactivado."
 //---- Stage Types
@@ -2779,31 +2789,31 @@
 //--------------------------------
 
 //---- MOVIMIENTO PRINCIPIANTE
-3000 = "¡Bienvenido al tutorial de movimiento principiante! Soy Orby, tu anfitrión y yo te enseñaré todo lo básico de Rivals of Aether."
+3000 = "¡Bienvenido al tutorial de movimiento principiante! Yo soy Orby, tu anfitrión, y yo te enseñaré todo lo básico por saber de Rivals of Aether."
 3001 = "Empezemos con el control básico para CAMINAR."
-3002 = "Para caminar, mueve gentilmente el Stick izquierdo. \nCorrerás si lo mueves bruscamente."
+3002 = "Para caminar, mueve suavemente el Stick izquierdo. \nCorrerás si lo mueves bruscamente."
 3003 = "Muy bien, ahora pasemos a CORRER."
 3004 = "Para correr, mueve rápidamente el Stick izquierdo hacia la dirección a la que desear ir."
-3005 = "Vayamos con los SALTOS ahora."
+3005 = "Vayamos ahora con los SALTOS."
 3006 = "Para saltar, presiona tu botón de salto. Si lo mantienes, darás un SALTOTE (salto completo)."
 3007 = "Ahora, probemos el SALTO DOBLE."
 3008 = "Para hacer un salto doble, presiona el botón de salto de nuevo mientras estás en el aire. Muy simple."
 3009 = "Cuidado, porque solo puedes saltar 2 veces antes de tener que tocar el suelo."
 3010 = "Estas son plataformas, y son diferentes al suelo común. No solo puedes atravesarlas para subir a ellas, sino que también puedes bajar de ellas."
-3011 = "Mueve rápidamente el Stick izquierdo hacia abajo para caer de una plataforma. Mientras sigas cayendo, puedes mantener el Stick hacia abajo para seguir cayendo de plataformas."
+3011 = "Mueve rápidamente el Stick izquierdo hacia abajo para caer de una plataforma. Puedes mantener el Stick hacia abajo para seguir cayendo de plataformas."
 3012 = "¡Increíble! Ahora que aprendiste lo más básico del movimiento, Podremos ir a lecciones mayores. Buen trabajo."
 
 //---- DEFENSA PRINCIPIANTE
 3013 = "¡Bienvenido al tutorial de defensa principiante! Las siguientes lecciones te enseñarán a cómo defenderte de ataques enemigos."
 3014 = "Empecemos con el DESVÍO. Para desviar, presiona tu botón de desvío en el suelo sin mantener ninguna una dirección."
 3015 = "Si tú desvías un ataque, te volverás temporalmente intocable y el atacante quedará aturdido por unos momentos, dejándole a merced de un contraataque."
-3016 = "Sin embargo, los desvíos no son instantaneos. Se vuelven activos pasados 2 fotogramas y tienen un tiempo de recarga algo largo.\nTen en nota que el juego va a 60 cuadros por segundo" //updated
+3016 = "Sin embargo, los desvíos no son instantaneos. Se vuelven activos pasados 2 fotogramas y tienen un tiempo de recarga algo largo.\nTen en nota que el juego va a 60 fotogramas por segundo" //updated
 3017 = "Inténtalo. Desvía 3 de mis ataques seguidos."
 3018 = "Desviar también puede reflejar proyectiles. Por lo general no aturden al oponente, pero igual te dará la invencibilidad temporal." //updated
 3019 = "Ahora prueba reflejar 3 de mis proyectiles desviando."
 3020 = "¡Muy bien! Ahora intentemos RODAR."
 3021 = "Si mantienes izquierda o derecha al presionar tu botón de esquivo, RODARÁS en lugar de desviar."
-3022 = "Rodar no aturdirá al oponente, pero a veces es menos ariesgado que desviar. Además, crea algo de distancia entre ti y el oponente "
+3022 = "Rodar no aturdirá al oponente, pero a veces es menos ariesgado que desviar. Además, crea algo de distancia entre ti y tu oponente "
 3023 = "Ahora, rueda para quitarte de mis ataques 3 veces seguidas."
 3024 = "Nada mal. Ahora pasemos al ESQUIVO AÉREO."
 3025 = "Si presionas tu botón de esquivo en el aire, harás un ESQUIVO AEREO. También puedes direccionar el escuivo aéreo con el Stick izquierdo."
@@ -2820,10 +2830,10 @@
 3034 = "Inténtalo y golpéame con los 3 golpes del combo de Jab."
 3035 = "Bien. Ahora probemos el ATAQUE EN CARRERA."
 3036 = "Ejecutarlo es tan sencillo como presionar el botón de Ataque mientras corres. Bastante simple."
-3037 = "Prosigamos."
+3037 = "Bien. Prosigamos."
 3038 = "Si mantienes suavemente una dirección en el suelo y presionas el botón de Ataque, harás un golpe direccionado. Este tipo de ataques se llaman TILT."
 3039 = "Hay 3 tipos de Tilt que son determinados dependiendo a la dirección que mantienes..."
-3040 = "TILT AL FRENTE (TILR-FRON.): Mantén izq. o der. y presiona Ataque.\nTILT ARRIBA (TILT-ARR.): Mantén arriba y presiona Ataque.\nTILT ABAJO (TILR-ABJ.): Mantén abajo y presiona Ataque."
+3040 = "TILT FRONTAL (TILT-FRON.): Mantén izq. o der. y presiona Ataque.\nTILT ARRIBA (TILT-ARR.): Mantén arriba y presiona Ataque.\nTILT ABAJO (TILR-ABJ.): Mantén abajo y presiona Ataque."
 3041 = "Ahora golpéame con cada uno de los 3 Tilts antes dichos.\nRecuerda que NO DEBES CORRER para hacer un TILT-FRON., mueve gentilmente el Stick.."
 3042 = "Ya tienes la idea. Ahora probemos los ataques FUERTES."
 3043 = "Mientras estés en el suelo, al presionar el botón Fuerte realizarás dicho golpe. De nuevo, el tipo de Fuerte que hagas dependerá de la dirección que mantengas."
@@ -2839,7 +2849,7 @@
 3053 = "Ahora golpéame 3 veces con cada ataque aéreo. ¡Adelante, hazlo!"
 3054 = "Excelnte. El último tipo de ataque que veremos son los ESPECIALES.\nUn tipo de ataque característico para cada rival."
 3055 = "Para hacer un especial, solo presiona el botón de Especial. Los ataques especiales son muy diversos entre los rivales y algunos cambian si se hacen en el aire."
-3056 = "Hay 4 tipos de ataques especiales que, por última vez, son determinados por la dirección que mantengas."
+3056 = "Hay 4 tipos de ataques especiales que, de nuevo, son determinados por la dirección que mantengas."
 3057 = "ESPECIAL ARRIBA (ESPEC-ARR.): Mantén arriba y presiona Especial.\nESPECIAL ABAJO (ESPEC-ABJ.): Mantén abajo y presiona Especial."
 3058 = "ESPECIAL NEUTRAL (ESPEC-N): Presiona Especial sin direccionar.\nESPECIAL LATERAL (ESPEC-LAT.): Mantén izq. o der. y presiona Especial."
 3059 = "Golpéame 3 veces con cada especial antes dicho."
@@ -2858,7 +2868,7 @@
 3070 = "Para hacer una caída rápida, solo tienes que mover rápidamente el Stick Izq. hacia abajo."
 3071 = "Ten en cuenta que solo puedes hacer caída rápida mientras caes, no mientras subes."
 3072 = "Ahora inténtalo. Realiza 3 caídas rápidas seguidas para evitar mi ataque."
-3073 = "¡Excelente! Para una buena recuperación, a veces se necesita más que solo saltos comunes. Aquí entra el SALTO DE PARED"
+3073 = "¡Excelente! Para una buena recuperación, a veces se necesita más que solo saltos comunes. Aquí entra el SALTO DE PARED."
 3074 = "Hacer un salto de pared es tan simple como mantener el Stick Izq. hacia una pared y después saltar de nuevo."
 3075 = "Recuerda, SOLO PUEDES HACER UN SALTO DE PARED antes de tener que tocar el suelo de nuevo."
 3076 = "Tomaré prestado tu salto doble. Te lo devolveré luego. Trata de alcanzar esa plataforma haciendo un salto de pared."
@@ -2869,7 +2879,7 @@
 
 //---- DEFENSA INTERMEDIA
 3081 = "¡Bienvenido al tutorial de defensa intermedia! En estas lecciones veremos qué es la interferencia direccional y el Tech. Estas técnicas son vitales para tu supervivencia, así que toma papel y lápiz."
-3082 = "Empecemos con la INTERFERENCIA DIRECCIONAL, usualmente solo llamada DI por sus siglas en inglés."
+3082 = "Empecemos con la INTERFERENCIA DIRECCIONAL, usualmente solo llamada DI."
 3083 = "La DI es cuando cambias el ángulo en el que un enemigo te haya lanzado con un ataque. Para realizarlo, solo mantén tu Stick izq. cuando hayas sido golpeado."
 3084 = "Si yo te golpeara con un ataque que te enviará a esa dirección..."
 3085 = "y mantienes el Stick izq. así..."
@@ -2879,36 +2889,36 @@
 3089 = "Inténtalo. Mueve tu Stick izq. para probar los efectos del DI."
 3090 = "Nota cómo el mantener el Stick hacia la misma dirección o a la dirección contraria tiene exáctamente el mismo efecto de no haberlo movido."
 3091 = "Hay dos maneras principales de aplicar el DI:\n  1. Sobrevivir a ataques.\n  2. Escapar de combos."
-3092 = "Lesson 1 will be on Survival DI."
-3093 = "This dotted line represents the blastzone.\nIf you pass the blastzone, you lose one stock."
-3094 = "If you're hit by a strong attack that sends you flying in this direction, you will certainly pass the blastzone if you don't DI."
-3095 = "If you DI this hit downward, you will die even earlier."
-3096 = "If you DI upward, however, you will survive the attack! Notice how the arrow never crosses the dotted line."
-3097 = "Let's try it out! Use good DI to survive my attack 3 times in a row."
-3098 = "Very nice! Once you implement this into your play style, your stocks will last a lot longer."
-3099 = "Now..."
-3100 = "Let's learn how to use DI to escape from combos."
-3101 = "Many combo moves send you at an angle similar to this one."
-3102 = "If you hold inward, the opponent will be able to easily follow up with another attack."
-3103 = "If you hold outward, however, the opponent will have to move a lot farther to hit you again."
-3104 = "Try using DI to escape my combo 3 times in a row. Just try to touch the ground before going offstage."
-3105 = "Those are the basics of DI. With some attacks, applying DI isn't as simple as what you just learned. But with practice, DI will help you out in most bad situations."
-3106 = "Let's move on to teching."
-3107 = "You see, touching the ground while in hitstun will put you in a helpless state for a short time. If you are hit downward hard enough, it can even bounce you off the ground."
-3108 = "To avoid these bad situations, you must tech!"
-3109 = "If you press the dodge button right before touching the ground, you will perform a tech."
-3110 = "Teching makes you briefly invincible, but your opponent can punish you if they predict the tech."
-3111 = "If you hold left or right when teching, you will perform a tech roll."
-3112 = "Tech rolls are slower than a tech in place, but it can create distance between you and your opponent."
-3113 = "When trying to tech, you cannot just mash the dodge button. You must time the button press within 20 frames of hitting the ground."
-3114 = "Immediately after those 20 frames, there is a 20 frame period where you cannot input another tech attempt."
-3115 = "Okay, time to try it out. Tech my attacks 3 times in a row.\nJump near me when you're ready."
-3116 = "You can also tech on walls the same way you tech on the ground."
+3092 = "La primer lección será sobre supervivencia con DI."
+3093 = "La línea punteada simboliza la zona límite.\nSi sales de ella, perderás una vida."
+3094 = "Si eres impactado por un ataque fuerte que te envíe hacia esta dirección, seguramente saldrás de la sona límite si no haces DI."
+3095 = "Si haces DI hacia abajo, morirás aún más antes."
+3096 = "Sin embargo, si haces DI hacia arriba, ¡sobrevivirás el ataque! Nota cómo la flecha nunca pasa de la línea punteada."
+3097 = "¡Pongámoslo en práctica! Haz un buen DI para sobrevivir 3 de mis ataques seguidos."
+3098 = "¡Muy bien! Una vez esto esté bien implementado en tu juego, tendrás vidas más largas."
+3099 = "Ahora..."
+3100 = "Aprendamos a cómo hacer DI para escapar de combos."
+3101 = "Muchos combos te lanzarán en un ángulo similar a este."
+3102 = "Si haces DI hacia arriba, el oponente podrá continuar su combo con facilidad."
+3103 = "Si haces DI hacia abajo, el oponente tendrá que moverse aún más para golpearte de nuevo."
+3104 = "Trata de hacer un DI correcto para escapar de mis combos 3 veces seguidas. Solo trata de tocar el suelo de nuevo antes de que te saque del escenario."
+3105 = "Eso solo fue lo más básico del DI. Hacer DI no es tan simple como apenas aprendiste contra ciertos ataques. Pero con suficiente práctica, el DI te ayudará a salir de casi cualquier situación."
+3106 = "Ahora pasemos con el TECH."
+3107 = "Al tocar el suelo mientras eres lanzado a él, te dejará indefenso momentaneamente. Si eres lanzado con fuerza, chocarás contra el suelo rebotando."
+3108 = "¡Para evitar estas malas posiciones, deberás hacer TECH!"
+3109 = "Si presionas el botón de Esquivo justo antes de tocar el suelo, harás un Tech."
+3110 = "Si mantienes izquierda o derecha al presionar Esquivo, también rodarás con tu Tech."
+3111 = "Hacer Tech te vuelve brevemente intocable. Sin embargo, tu oponente puede castigarte si predice correctamente tu Tech."
+3112 = "Rodar con Techs en sí es más lento que solo el Tech, pero crea distancia entre ti y tu oponente."
+3113 = "Cuando haces Tech, no puedes solo machacar el bottón de salto. Debes presionarlo al tiempo correcto tras 20 fotogramas de tocar el suelo."
+3114 = "Tras esos 20 fotogramas, habrá otros 20 fotogramas donde no puedes hacer otro Tech."
+3115 = "Bien. Ahora trata de hacer 3 Techs seguidos de mis ataques.\nSalta hacia mí cuando estés listo."
+3116 = "También puedes hacer Techs con las paredes de la misma forma que lo haces con el suelo."
 3117 = "Let's try combining DI and teching for the final lesson."
-3118 = "DI my attack so that you hit the wall, then tech it so you don't bounce off."
-3119 = "Excellent!"
-3120 = "Now that you understand DI and teching, your opponent will have to try much harder to defeat you."
-3121 = "These techniques take practice though, so keep training until you've mastered them."
+3118 = "Haz un DI correcto para ser lanzado hacia la pared y después haz un Tech para que no rebotes de ella."
+3119 = "¡Excelente!"
+3120 = "Ahora que conoces mejor el DI y el Tech, tus oponentes se las verán más difícil para eliminarte."
+3121 = "Estas técnicas requieren mucha práctica, así que trata de entrenarlas hasta que las hayas dominado."
 
 //---- COMBATE AVANZADO
 3122 = "Welcome to the intermediate offense tutorial! Here you will learn how to apply your attacks in different ways."
@@ -3464,7 +3474,6 @@
 3640 = "Excellent!"
 3641 = "If Elliana is overheated when performing a strong attack, it will create an explosion instead of steam."
 3642 = "While overheated, you won't be able to hover or use special moves, so be careful. Strong attacks release heat and can quickly return her to her normal state."
-3643 = "Try overheating and hitting me with strong attack explosions 3 times."
 3644 = "Nice!"
 3645 = "Elliana's NSPECIAL allows her to fire a rocket fist in any direction. After traveling a short distance, the fist will explode."
 3646 = "When she fires the rocket fist, the recoil will launch her in the opposite direction."
@@ -3705,6 +3714,9 @@
 4020 = "Goldbert"
 4021 = "Mini Fleet"
 4022 = "Luna"
+4023 = "Ghost Croquet Crab"
+4024 = "Mawson"
+
 
 //------------------------------------
 // Workshop Error Messages [4049-4199]
@@ -3856,11 +3868,13 @@
 4217 = "RECHAZAR"
 4218 = "ENVIAR"
 4219 = "ACEPTAR"
+4195 = "IU"
+4196 = "REAPARECER HASTA %"
 
 // Abyss Mode Options
 4197 = "@4"
 4198 = "SI"
-4199 = "FINAL."
+4199 = "FIN"
 
 //-----------------------------
 // Nintendo Switch [4220-4239]
@@ -3876,7 +3890,7 @@
 // Banner Popup [4300-4309]
 //--------------------------
 
-4300 = "¡SUBES DE LIGA"
+4300 = "¡NUEVA LIGA!"
 4301 = "¡NUEVO HITO!"
 4302 = "¡NVL. 10 ALCANZADO!"
 
@@ -3937,3 +3951,44 @@
 4384 = "Pantalón"
 4385 = "Brillo"
 4386 = "Ojos"
+
+//------------------------------
+// Hodan Taunt Lines [4400-4406]
+//------------------------------
+
+4400 = "NEED HELP?"
+4401 = "DOWNLOAD 'SKILL.roa'?"
+4402 = "BUTTON SPAM DETECTED"
+4403 = "HELLO, [NAME]!"
+4404 = "GET GOOD!"
+4405 = "GET 'ILOVEU.roa' NOW"
+4406 = "DISABLE ROCKWALL?"
+//-------------------------
+// 2024 Updates [4500-4599]
+//-------------------------
+
+4500 = "THE END" // story mode
+4501 = "ADD CATEGORY" // workshop menu
+4502 = "DELETE CATEGORY" // workshop menu
+
+// Replay Mode Options
+4540 = "Pantalla verde"
+4541 = "Rebobinar 1 seg."
+
+// Advanced Training Options
+4550 = "Advanced Options" // header text
+4551 = "Save State"
+4552 = "Load State"
+4553 = "Stop Recording"
+4554 = "Start Recording"
+4555 = "Stop Playback"
+4556 = "Start Playback"
+4557 = "Loop: " // (eg. Loop: ON/OFF/SHUFFLE)
+4558 = "Stop Control"
+4559 = "Start Control"
+4560 = "Change File"
+4561 = "NO FILES FOUND"
+4562 = "Regular Options"
+4563 = "Advanced Options"
+4564 = "(Use Player Slot `1)"
+4539 = "En la selección de escenarios, presiona rápidamente la\napariencia de Torre del Cielo o de Abismo Infinito para\napariencias especiales del otro."
