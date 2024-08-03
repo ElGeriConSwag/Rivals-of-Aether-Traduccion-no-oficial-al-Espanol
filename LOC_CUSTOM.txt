@@ -1,5 +1,3 @@
-﻿// Puedes agregar tu propia traducción en este archivo. Debido a que el soporte de lenguajes externo del juego aún está desarrollándose, no todos los caracteres se mostrarán correctamente. Recuerda guardar una copia de este archivo, ya que puede ser sobreescrito en futuras actualizaciones.
-
 //---- Nombre del idioma
 0 = "ESPAÑOL (WIP)"
 
@@ -2133,19 +2131,19 @@
 2194 = "Elliana recibe menos empuje y ahora golpea enemigos tras de usar ESPEC-ARR."
 
 //---- SHOVEL KNIGHT
-2195 = "Shovel Knight lanza un Drop Spark con JAB."
-2196 = "Shovel Knight atrae gemas permanentemente."
-2197 = "AER-ABJ. siempre zambulle a Shovel Knight diagonalmente hacia abajo."
-2198 = "TILT-ABJ siempre crea rocas del tesoro."
+2195 = "Shovel Knight lanza Saltachispas con JAB."
+2196 = "Shovel Knight lleva el Icor de Fortuna y atrae gemas permanentemente."
+2197 = "Caída diagonal: AER-ABJ. siempre zambulle a Shovel Knight diagonalmente hacia abajo."
+2198 = "Creazanjas: TILT-ABJ siempre crea rocas del tesoro."
 2199 = "AER-ARR siempre eleva a Shovel Knight y es más fuerte."
 2200 = "Aumenta la velocidad de movimiento de Shovel Knight."
-2201 = "La nube de ESPEC-ABJ. puede usarse como plataforma."
-2202 = "Dust Knuckles replaced with Burrow Bomber, a leaping attack."
-2203 = "La caña de ESPEC-ABJ es reemplazada por un explosivo móvil."
-2204 = "Shovel Knight lanza un Orbe de Caos con TILT-ARR que aturde enemigos."
+2201 = "Nubecilla: Shovel Knight deja la nube de ESPEC-ABJ. y puede usarse como plataforma."
+2202 = "Los Nudillos Polvorientos de TILT-LAT son reemplazados por Cavabombas, un ataque de asalto."
+2203 = "La caña de ESPEC-ABJ es reemplazada por Bomba Cebo, un explosivo móvil."
+2204 = "Shovel Knight lanza una Esfera del Caos con TILT-ARR que aturde enemigos."
 2205 = "El CUERNO DE GUERRA, el ENGRANE MÓVIL y el GUANTE FANTASMA son más fuertes."
-2206 = "Recolectar gemas incrementa temporalmente el empuje ingligido de Shovel Knight hasta un máximo de x2."
-2207 = "Presiona ESPEC-ARR para solo lanzar el ancla."
+2206 = "Recolectar gemas incrementa temporalmente el empuje ingligido de Shovel Knight hasta x2."
+2207 = "Presiona brevemente ESPEC-ARR solo lanza el ancla."
 2208 = "ESPEC-LAT. siempre es Infinidaga, haciendo que Shovel Knight viaje a su dist. máxima."
 2209 = "La ARMADURA ADORNADA ahora tiene los efectos de las armaduras DÍNAMO y MOMENTUM a la vez."
 
@@ -2833,14 +2831,14 @@
 3037 = "Bien. Prosigamos."
 3038 = "Si mantienes suavemente una dirección en el suelo y presionas el botón de Ataque, harás un golpe direccionado. Este tipo de ataques se llaman TILT."
 3039 = "Hay 3 tipos de Tilt que son determinados dependiendo a la dirección que mantienes..."
-3040 = "TILT FRONTAL (TILT-FRON.): Mantén izq. o der. y presiona Ataque.\nTILT ARRIBA (TILT-ARR.): Mantén arriba y presiona Ataque.\nTILT ABAJO (TILR-ABJ.): Mantén abajo y presiona Ataque."
+3040 = "TILT FRONTAL (TILT-FRON.): Mantén izq. o der. y presiona Ataque.\nTILT ARRIBA (TILT-ARR.): Mantén arriba y presiona Ataque.\nTILT ABAJO (TILT-ABJ.): Mantén abajo y presiona Ataque."
 3041 = "Ahora golpéame con cada uno de los 3 Tilts antes dichos.\nRecuerda que NO DEBES CORRER para hacer un TILT-FRON., mueve gentilmente el Stick.."
 3042 = "Ya tienes la idea. Ahora probemos los ataques FUERTES."
 3043 = "Mientras estés en el suelo, al presionar el botón Fuerte realizarás dicho golpe. De nuevo, el tipo de Fuerte que hagas dependerá de la dirección que mantengas."
 3044 = "FUERTE LATERAL (FUER-LAT.): Mantén izq. o der. y presiona Fuerte.\nFUERTE ARRIBA (FUER-ARR.): Mantén arriba y presiona Fuerte.\nFUERTE ABAJO (FUER-ABJ.): Mantén abajo y presiona Fuerte."
 3045 = "También puedes mantener el botón para cargar el golpe y hacerlo más poderoso. Alternativamente, si tienes controles predeterminados, también podrás cargar Fuertes si mantienes el Stick derecho."
 3046 = "Ahora prueba golpearme con cada uno de los 3 tipos de Fuerte antes mencionados."
-3047 = "Nada mal. Ahora pasemos a los ATAQUES AÉREOS."
+3047 = "Nada mal. Ahora pasemos a los ATAQUES AÉREOS."
 3048 = "No solo puedes golpear en el suelo, sino también en el aire al presionar el botón Ataque o Fuerte."
 3049 = "Hay 5 tipos de ataques aéreos que son determinados por,\ntambién, la dirección que mantengas."
 3050 = "AÉREO NEUTRAL (AER-N.): Golpe aéreo sin direccionar en el aire.\nAÉREO FRONTAL (AER-FRON.): Mantén adelante y presiona Ataque en el aire\nAÉREO ATRÁS (AER-ATR.): Mantén atrás y presiona Ataque en el aire."
@@ -3747,13 +3745,13 @@
 4069 = "Solicitud pendiente, esto puede procesarse o esperar en terceros."
 4070 = "Encriptado/Desencriptado fallido."
 4071 = "Privilegios insuficientes."
-4072 = "Mucho de lo bueno."
-4073 = "Acceso revocado (used for revoked guest passes.)"
-4074 = "License/Guest pass the user is trying to access is expired."
-4075 = "Guest pass has already been redeemed by account, cannot be used again."
-4076 = "The request is a duplicate and the action has already occurred in the past, ignored this time."
-4077 = "All the games in this guest pass redemption request are already owned by the user."
-4078 = "IP address not found."
+4072 = "Mucho de algo bueno."
+4073 = "Acceso revocado."
+4074 = "El pase de la licencia o usuario ha expirado."
+4075 = "El pase de invitado ya ha sido canjeado."
+4076 = "La funci[on solicitada es un duplicado de otra ya y se ignoró."
+4077 = "Todos los juegos de este pase de invitados ya son propiedad del usuario."
+4078 = "Dirección IP no hallada."
 4079 = "Failed to write change to the data store."
 4080 = "Failed to acquire access lock for this operation."
 4081 = "The logon session has been replaced."
@@ -3967,13 +3965,14 @@
 // 2024 Updates [4500-4599]
 //-------------------------
 
-4500 = "THE END" // story mode
-4501 = "ADD CATEGORY" // workshop menu
-4502 = "DELETE CATEGORY" // workshop menu
+4500 = "EL FIN" // story mode
+4501 = "NUEVA CATEGORÍA" // workshop menu
+4502 = "BORRAR CATEGORÍA" // workshop menu
 
 // Replay Mode Options
 4540 = "Pantalla verde"
 4541 = "Rebobinar 1 seg."
+
 // Advanced Training Options
 4550 = "Opciones avanzadas" // header text
 4551 = "Guardar estado"
